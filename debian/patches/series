@@ -9,3 +9,4 @@
 0009-usb_intf-extending-compatible-vendor-list.patch
 0010-Enabling-CFG80211.patch
 0011-Enabling-RTL8821A.patch
+add-archer-nano.patch
